@@ -1,7 +1,7 @@
 body {
-  background: write;
+  background: gray;
   font-family: 'Open Sans', sans-serif;
-  color: black
+  color:white 
 }
 
 #container {
@@ -12,7 +12,7 @@ body {
   border: 1px #222 solid;
 }
 
-#header h1 { margin: 0; }
+#header h1 { margin: 0; font-color:white }
 #nav ul { margin: 0; }
 #nav li {
   font-weight: bold;
